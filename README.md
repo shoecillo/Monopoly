@@ -7,5 +7,4 @@ I replicated in Java
 
 Thanks to Mauricio
 
-Results:
 ![Hits](http://shoecillo.drivehq.com/images/MonopolyHits.png)
